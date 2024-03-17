@@ -7,7 +7,7 @@ Devoir sur l'inversion de matrices utilisant la décomposition de Schur. Lire le
 ```
 cd src
 make
-./courageux.exe ./in.txt ./out.txt
+./courageux.exe
 ou
-./projet.exe ./in.txt ./out.txt
+./projet.exe
 ```
